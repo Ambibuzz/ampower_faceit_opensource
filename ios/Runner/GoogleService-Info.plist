@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+	<string>247642552449-l31rdcf63nuh623kknkbljg2h66aia2b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.247642552449-l31rdcf63nuh623kknkbljg2h66aia2b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpEQ6TQ0DXTJL8JKH-dxJ37mpUNH9mH2g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>247642552449</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ampower.faceit</string>
+	<key>PROJECT_ID</key>
+	<string>ampower-faceit-01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ampower-faceit-01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:247642552449:ios:228f05e82df6611d8f3580</string>
+</dict>
+</plist>

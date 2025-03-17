@@ -1,0 +1,143 @@
+Target dependency graph (36 targets)
+FMDB in Pods, no dependencies
+Flutter in Pods, no dependencies
+GTMSessionFetcher in Pods, no dependencies
+PromisesObjC in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+nanopb in Pods, no dependencies
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+GoogleToolboxForMac in Pods, no dependencies
+GoogleUtilitiesComponents in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+Protobuf in Pods, no dependencies
+MLKitCommon in Pods, depends on:
+GoogleDataTransport in Pods (explicit)
+GoogleToolboxForMac in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GoogleUtilitiesComponents in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+Protobuf in Pods (explicit)
+MLImage in Pods, no dependencies
+MLKitVision in Pods, depends on:
+GoogleToolboxForMac in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+MLImage in Pods (explicit)
+MLKitCommon in Pods (explicit)
+Protobuf in Pods (explicit)
+MLKitBarcodeScanning in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitFaceDetection-GoogleMVFaceDetectorResources in Pods, no dependencies
+MLKitFaceDetection in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitFaceDetection-GoogleMVFaceDetectorResources in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitImageLabeling-MLKitImageLabelingResources in Pods, no dependencies
+MLKitImageLabelingCommon in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitObjectDetectionCommon-MLKitObjectDetectionCommonResources in Pods, no dependencies
+MLKitObjectDetectionCommon in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitObjectDetectionCommon-MLKitObjectDetectionCommonResources in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitVisionKit in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitImageLabelingCommon in Pods (explicit)
+MLKitObjectDetectionCommon in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitImageLabeling in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitImageLabeling-MLKitImageLabelingResources in Pods (explicit)
+MLKitImageLabelingCommon in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitVisionKit in Pods (explicit)
+MLKitImageLabelingCustom in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitImageLabelingCommon in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitVisionKit in Pods (explicit)
+MLKitTextRecognition-GoogleMVTextDetectorResources in Pods, no dependencies
+MLKitTextRecognition in Pods, depends on:
+MLKitCommon in Pods (explicit)
+MLKitTextRecognition-GoogleMVTextDetectorResources in Pods (explicit)
+MLKitVision in Pods (explicit)
+GoogleMLKit in Pods, depends on:
+MLKitBarcodeScanning in Pods (explicit)
+MLKitCommon in Pods (explicit)
+MLKitFaceDetection in Pods (explicit)
+MLKitImageLabeling in Pods (explicit)
+MLKitImageLabelingCustom in Pods (explicit)
+MLKitTextRecognition in Pods (explicit)
+camera_avfoundation in Pods, depends on:
+Flutter in Pods (explicit)
+google_ml_kit in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleMLKit in Pods (explicit)
+location in Pods, depends on:
+Flutter in Pods (explicit)
+path_provider_ios in Pods, depends on:
+Flutter in Pods (explicit)
+shared_preferences_ios in Pods, depends on:
+Flutter in Pods (explicit)
+sqflite in Pods, depends on:
+FMDB in Pods (explicit)
+Flutter in Pods (explicit)
+tflite_flutter in Pods, depends on:
+Flutter in Pods (explicit)
+url_launcher_ios in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+FMDB in Pods (explicit)
+Flutter in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleMLKit in Pods (explicit)
+GoogleToolboxForMac in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GoogleUtilitiesComponents in Pods (explicit)
+MLImage in Pods (explicit)
+MLKitBarcodeScanning in Pods (explicit)
+MLKitCommon in Pods (explicit)
+MLKitFaceDetection in Pods (explicit)
+MLKitImageLabeling in Pods (explicit)
+MLKitImageLabelingCommon in Pods (explicit)
+MLKitImageLabelingCustom in Pods (explicit)
+MLKitObjectDetectionCommon in Pods (explicit)
+MLKitTextRecognition in Pods (explicit)
+MLKitVision in Pods (explicit)
+MLKitVisionKit in Pods (explicit)
+PromisesObjC in Pods (explicit)
+Protobuf in Pods (explicit)
+camera_avfoundation in Pods (explicit)
+google_ml_kit in Pods (explicit)
+location in Pods (explicit)
+nanopb in Pods (explicit)
+path_provider_ios in Pods (explicit)
+shared_preferences_ios in Pods (explicit)
+sqflite in Pods (explicit)
+tflite_flutter in Pods (explicit)
+url_launcher_ios in Pods (explicit)
+Runner in Runner, depends on:
+Pods-Runner in Pods (implicit dependency via file 'Pods_Runner.framework' in build phase 'Link Binary')
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS')
+FMDB in Pods (implicit dependency via options '-framework FMDB' in build setting 'OTHER_LDFLAGS')
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS')
+GoogleDataTransport in Pods (implicit dependency via options '-framework GoogleDataTransport' in build setting 'OTHER_LDFLAGS')
+GoogleToolboxForMac in Pods (implicit dependency via options '-framework GoogleToolboxForMac' in build setting 'OTHER_LDFLAGS')
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS')
+GoogleUtilitiesComponents in Pods (implicit dependency via options '-framework GoogleUtilitiesComponents' in build setting 'OTHER_LDFLAGS')
+Protobuf in Pods (implicit dependency via options '-framework Protobuf' in build setting 'OTHER_LDFLAGS')
+camera_avfoundation in Pods (implicit dependency via options '-framework camera_avfoundation' in build setting 'OTHER_LDFLAGS')
+google_ml_kit in Pods (implicit dependency via options '-framework google_ml_kit' in build setting 'OTHER_LDFLAGS')
+location in Pods (implicit dependency via options '-framework location' in build setting 'OTHER_LDFLAGS')
+nanopb in Pods (implicit dependency via options '-framework nanopb' in build setting 'OTHER_LDFLAGS')
+path_provider_ios in Pods (implicit dependency via options '-framework path_provider_ios' in build setting 'OTHER_LDFLAGS')
+shared_preferences_ios in Pods (implicit dependency via options '-framework shared_preferences_ios' in build setting 'OTHER_LDFLAGS')
+sqflite in Pods (implicit dependency via options '-framework sqflite' in build setting 'OTHER_LDFLAGS')
+tflite_flutter in Pods (implicit dependency via options '-framework tflite_flutter' in build setting 'OTHER_LDFLAGS')
+url_launcher_ios in Pods (implicit dependency via options '-framework url_launcher_ios' in build setting 'OTHER_LDFLAGS')

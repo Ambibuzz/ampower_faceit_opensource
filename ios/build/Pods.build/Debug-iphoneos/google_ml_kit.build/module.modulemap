@@ -1,0 +1,6 @@
+framework module google_ml_kit {
+  umbrella header "google_ml_kit-umbrella.h"
+
+  export *
+  module * { export * }
+}

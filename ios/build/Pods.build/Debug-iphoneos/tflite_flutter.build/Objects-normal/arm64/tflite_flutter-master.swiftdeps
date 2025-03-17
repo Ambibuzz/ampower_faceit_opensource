@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "3fbb6b600eb311a8fae0fd30a20a3cd7d92c9139e6d49cf0249b0a5e8151774a"
+build_start_time: [1665326575, 158951997]
+build_end_time: [1665326575, 224411964]
+inputs:
+  ? "/Users/vcbm/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter-0.9.0/ios/Classes/SwiftTfliteFlutter.swift"
+  : [1665320470, 419017314]

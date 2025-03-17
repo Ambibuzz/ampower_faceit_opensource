@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/vcbm/Documents/development/flutter/.pub-cache/git/Google-Ml-Kit-plugin-24aa3bebefee9a471b95e04b273b4ccaa7e42a67/ios/Classes/vision/GenericModelManager.m \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/build/Pods.build/Debug-iphoneos/google_ml_kit.build/module.modulemap \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Target\ Support\ Files/google_ml_kit/google_ml_kit-prefix.pch \
+  /Users/vcbm/Documents/development/flutter/.pub-cache/git/Google-Ml-Kit-plugin-24aa3bebefee9a471b95e04b273b4ccaa7e42a67/ios/Classes/vision/GenericModelManager.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Modules/module.modulemap \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/vcbm/documents/development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/Flutter.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Modules/module.modulemap \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKRemoteModelSource.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKModelManager.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKModelDownloadNotifications.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKModelDownloadConditions.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKLocalModel.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKRemoteModel.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKCustomRemoteModel.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKitCommon.h

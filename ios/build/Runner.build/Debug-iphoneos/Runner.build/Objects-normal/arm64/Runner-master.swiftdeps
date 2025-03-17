@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "e82473df97a7dc989ae4f7cbbea545cd72f4ba37ead350ef2c47439858b03c55"
+build_start_time: [1665326630, 701648950]
+build_end_time: [1665326640, 126273155]
+inputs:
+  "/Users/vcbm/Documents/development/attendancemanagement/ios/Runner/AppDelegate.swift": !private [1656682103, 0]

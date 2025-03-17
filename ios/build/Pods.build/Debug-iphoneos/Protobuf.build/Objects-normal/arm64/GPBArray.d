@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Protobuf/objectivec/GPBArray.m \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/build/Pods.build/Debug-iphoneos/Protobuf.build/module.modulemap \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Target\ Support\ Files/Protobuf/Protobuf-prefix.pch \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Protobuf/objectivec/GPBArray_PackagePrivate.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Protobuf/objectivec/GPBArray.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Protobuf/objectivec/GPBRuntimeTypes.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Protobuf/objectivec/GPBBootstrap.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Protobuf/objectivec/GPBMessage.h

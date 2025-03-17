@@ -1,0 +1,67 @@
+dependencies: \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/GDTCCTUploadOperation.m \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/build/Pods.build/Debug-iphoneos/GoogleDataTransport.build/module.modulemap \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCCTUploadOperation.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORUploader.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORLifecycle.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORPlatform.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORClock.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTargets.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/build/Pods.build/Debug-iphoneos/PromisesObjC.build/module.modulemap \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORRegistrar.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORMetricsControllerProtocol.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCOREventDropReason.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageProtocol.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageEventSelector.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageSizeBytes.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORMetrics.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREventDataObject.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadBatch.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORConsoleLogger.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREvent.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/build/Pods.build/Debug-iphoneos/nanopb.build/module.modulemap \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/nanopb/pb_encode.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/nanopb/pb_decode.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/nanopb/pb_common.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/nanopb/pb.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Target\ Support\ Files/nanopb/nanopb-umbrella.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/build/Pods.build/Debug-iphoneos/GoogleUtilities.build/module.modulemap \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCCTCompressionHelper.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCCTNanopbHelpers.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORReachability.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.h \
+  /Users/vcbm/Documents/development/attendancemanagement/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCOREvent+GDTMetricsSupport.h
